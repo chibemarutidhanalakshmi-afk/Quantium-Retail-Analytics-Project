@@ -19,6 +19,6 @@ This project analyses customer purchasing behaviour and evaluates the effectiven
 - Families and mainstream customers are key segments
 
 ## Files Included
-- Python Notebook
-- Final Report (PDF)
+- Task 1 notebook (`task_1_quantium.ipynb`)
+- Task 2 notebook export (PDF)
 - Certificate of Completion
